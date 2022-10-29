@@ -15,7 +15,7 @@ This project is called AN ACT OF FAITH. It uses the 3D depth, rasterised image a
 ## Project Files 
 * Processing Sketchbooks
 * Final Video Presentation
-* Walkthrough Video 
+* Walkthrough Video - https://youtu.be/YutuIBblEsk
 # 52685-WWDC---ASSESSMENT-3
 
 ## Technologies
