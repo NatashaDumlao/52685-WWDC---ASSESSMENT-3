@@ -13,6 +13,9 @@
 This project is called AN ACT OF FAITH. It uses the 3D depth, rasterised image and interactive modes to present an object that begins unclear, obscure and imprecise. By moving the mouse along the projects Y and X axis users are able to gague where the image begins to become clear. In order for the object to be known it requires time, effort and faith.
 
 ## Project Files 
+* Processing Sketchbooks
+* Final Video Presentation
+* Walkthrough Video 
 # 52685-WWDC---ASSESSMENT-3
 
 ## Technologies
